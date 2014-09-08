@@ -176,7 +176,7 @@
             themeLink: null,
             fbLink: null,
             youtubeLink: null,
-            website: null,
+            website: po.st/Asylium
             intervalMessages: [],
             messageInterval: 5,
             songstats: true,
